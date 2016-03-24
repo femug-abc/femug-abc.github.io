@@ -1,14 +1,16 @@
-<header class="site-header px2 px-responsive">
-  <div class="mt2 wrap">
-    <div class="measure">
-      <a href="{{ site.url }}" class="site-title"><img src="/images/logo.png" alt="Logo FEMUG-ABC"></a>
-      <nav class="site-nav">
-        {% include navigation.html %}
-      </nav>
-      <div class="clearfix"></div>
-      {% if site.show_social_icons %}
-        {% include social_links.html %}
-      {% endif %}
-    </div>
-  </div>
-</header>
+<aside class="logo">
+
+	{% if page.url == '/index.html' or page.url == '/' %}
+		{% assign link = '/sobre-o-femug-abc' %}
+		{% assign prompt = 'Sobre o FEMUG-ABC' %}
+	{% else %}
+		{% assign link = '/' %}
+		{% assign prompt = 'Início' %}
+	{% endif %}
+
+	<a href="{{ link | prepend: site.baseurl }}">
+		<img src="http://www.gravatar.com/avatar/{{ site.author_gravatar }}.png?s=80" class="gravatar">
+	</a>
+	<span class="logo-prompt">{{ prompt }}</span>
+
+</aside>
