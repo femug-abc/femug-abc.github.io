@@ -5,7 +5,6 @@ date:       2016-02-20
 summary:    Stack Nubank Javascript, Clojure e React
 categories: frontend testes software
 ---
----
 ## Quem palestrou?
 * Palestrante: Darlan Mendonça [@darlanmendonca](https://twitter.com/darlanmendonca){:target="_blank"}
 * Tema: Como aproveitar o Node.js no Desenvolvimento Front End
@@ -25,5 +24,5 @@ Esse encontro foi em formato de Talk com um palestrante e no final fizemos uma r
 
 <iframe src="//slides.com/darlanmendonca/deck/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-## Links 
+## Links
 * [Acessibilidade - W3C](http://acessibilidade.w3c.br/cartilha/fasciculo1/){:target="_blank"} - Cartilha de Acessibilidade na WEB - W3C
