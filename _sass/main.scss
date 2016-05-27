@@ -292,14 +292,16 @@ article {
   text-align: center;
   a {
     text-decoration: none;
-    margin: 40px auto 0;
+    margin: 10px auto 0;
     display: inline-block;
-    padding: 10px;
-    border: 0;
+    padding: 10px 30px;
+    border: 1px solid #9B3229;
+    border-radius: 4px;
+    text-align: center;
     &:before {
       content: "<<";
       margin-right: 5px;
-      color: #000;
+      color: #9B3229;
     }
   }
 }

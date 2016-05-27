@@ -23,6 +23,10 @@ layout: default
 
 	{{ content }}
 
+	{% if site.comments %}
+	  {% include disqus.html %}
+	{% endif %}
+
 </article>
 
 <div class="back">
