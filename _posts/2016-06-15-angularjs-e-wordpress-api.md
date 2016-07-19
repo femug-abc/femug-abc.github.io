@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "FEMUG-ABC #11 - AngularJS e WordPress API com Ciro Valente"
+title:      "FEMUG-ABC #11 - AngularJS e WordPress API"
 date:       2016-06-15
 summary:    AngularJS e WordPress API com Ciro Valente
 categories: melhores-praticas acessibilidade html css javascript
@@ -20,9 +20,11 @@ Esse encontro foi em formato de Talk com um palestrante e no final fizemos uma r
 
 ## Slides apresentados:
 
-<iframe src="//pt.slideshare.net/slideshow/embed_code/key/DX42jdFPYdlT7t" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//pt.slideshare.net/slideshow/embed_code/key/DX42jdFPYdlT7t" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>  
 
-##Links
+
+## Links
+
 **WordPress:Calypso:**  
 
  * [https://developer.wordpress.com/calypso/](https://developer.wordpress.com/calypso/)
